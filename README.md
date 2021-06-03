@@ -1,5 +1,7 @@
 ## Learning from Nature: Using Genetic Algorithms for Inventory Optimisation
 
+DOI: 10.13140/RG.2.2.31988.68481
+
 The code is split into three folders, model, pilotstudy, and simulations.<br />
 
 1. model
